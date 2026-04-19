@@ -1,0 +1,177 @@
+{
+  "filename": "Passport488.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกพัณฑ์ ทรัพย์",
+      "box": [
+        291,
+        212,
+        388,
+        224
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6257970",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SAP",
+      "box": [
+        134,
+        66,
+        153,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKPHAN",
+      "box": [
+        134,
+        88,
+        213,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกพัณฑ์ ทรัพย์",
+      "box": [
+        134,
+        106,
+        224,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "27 MAY 2005",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "4 6576 76793 92 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.87M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "19 JUL 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "18 JUL 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASAP<<KANOKPHAN<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA62579704THA0505278M2907188465767679392800<",
+      "box": [
+        22,
+        279,
+        402,
+        292
+      ]
+    }
+  ]
+}

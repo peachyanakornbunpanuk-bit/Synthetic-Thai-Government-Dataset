@@ -1,0 +1,177 @@
+{
+  "filename": "Passport073.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกนันทร์ คุณากร",
+      "box": [
+        290,
+        202,
+        409,
+        239
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3256294",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KHUNAKON",
+      "box": [
+        134,
+        66,
+        188,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKNAN",
+      "box": [
+        134,
+        88,
+        207,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกนันทร์ คุณากร",
+      "box": [
+        134,
+        106,
+        230,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "05 OCT 1979",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 8202 45841 18 7",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "03 JAN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "02 JAN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKHUNAKON<<KANOKNAN<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        439,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA32562944THA7910058M2901028982024584118700<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

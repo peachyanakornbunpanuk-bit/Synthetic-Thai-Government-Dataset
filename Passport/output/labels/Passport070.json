@@ -1,0 +1,177 @@
+{
+  "filename": "Passport070.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชปาณัสม์ รุ่งวรากุล",
+      "box": [
+        295,
+        210,
+        431,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA9978822",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "RUNGWARAKUN",
+      "box": [
+        134,
+        66,
+        207,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTPANAT",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชปาณัสม์ รุ่งวรากุล",
+      "box": [
+        134,
+        106,
+        239,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "14 MAY 1979",
+      "box": [
+        204,
+        132,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 9962 99158 01 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.81M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "22 DEC 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "21 DEC 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THARUNGWARAKUN<<KOTPANAT<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        438,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA99788224THA7905148M3012218599629915801100<",
+      "box": [
+        22,
+        279,
+        394,
+        292
+      ]
+    }
+  ]
+}

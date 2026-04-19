@@ -1,0 +1,177 @@
+{
+  "filename": "Passport189.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกกรานต์ อานนท์",
+      "box": [
+        295,
+        206,
+        417,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3668776",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "ANON",
+      "box": [
+        134,
+        66,
+        161,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKKRAN",
+      "box": [
+        134,
+        88,
+        213,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกกรานต์ อานนท์",
+      "box": [
+        134,
+        106,
+        236,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "26 AUG 1998",
+      "box": [
+        204,
+        131,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 0674 51419 54 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHON BURI",
+      "box": [
+        204,
+        154,
+        255,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "01 OCT 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "30 SEP 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAANON<<KANOKKRAN<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        437,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA36687764THA9808268M2909308606745141954100<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

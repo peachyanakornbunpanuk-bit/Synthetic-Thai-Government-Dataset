@@ -1,0 +1,177 @@
+{
+  "filename": "Passport216.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชกรพงศ์ วาทกุล",
+      "box": [
+        291,
+        204,
+        406,
+        240
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6939777",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WATHUK",
+      "box": [
+        134,
+        66,
+        175,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTCHAKONPHONG",
+      "box": [
+        134,
+        88,
+        246,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชกรพงศ์ วาทกุล",
+      "box": [
+        134,
+        106,
+        227,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "04 JUN 1995",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "3 6688 62870 39 5",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.77M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "14 MAY 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "13 MAY 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWATHUK<<KOTCHAKONPHONG<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        438,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA69397774THA9506048M2905138366886287039500<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

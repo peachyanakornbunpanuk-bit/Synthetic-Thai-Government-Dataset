@@ -1,0 +1,23 @@
+Starting Full House Registration Job...
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Lmod is automatically replacing "cce/19.0.0" with "gcc-native/14.2".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.6.0" with "PrgEnv-gnu/8.6.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/25.03.0     2) cray-mpich/8.1.32
+
+
+Lmod is automatically replacing "gcc-native/14.2" with "gcc/12.2.0".
+
+
+The following have been reloaded with a version change:
+  1) cray-libsci/25.03.0 => cray-libsci/23.09.1.1
+  2) cray-mpich/8.1.32 => cray-mpich/8.1.27
+
+🚀 Starting House Registration Full Book (v.Updated)...
+✅ Generated: house_full_0001.jpg
+✅ Job Finished!

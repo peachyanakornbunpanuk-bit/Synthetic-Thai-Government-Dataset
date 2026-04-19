@@ -1,0 +1,177 @@
+{
+  "filename": "Passport071.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เม็กเยื้อดอึ่ร ว้าจล่อยนี้บ",
+      "box": [
+        292,
+        201,
+        417,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3790752",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KORAWAN",
+      "box": [
+        134,
+        66,
+        181,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. SOMSAK",
+      "box": [
+        134,
+        88,
+        198,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง เม็กเยื้อดอึ่ร ว้าจล่อยนี้บ",
+      "box": [
+        134,
+        103,
+        250,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "16 APR 2003",
+      "box": [
+        204,
+        131,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 1408 04005 28 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "KHON KAEN",
+      "box": [
+        204,
+        154,
+        259,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.68M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 APR 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 APR 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKORAWAN<<SOMSAK<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        438,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA37907524THA030416F3004118614080400528000<<",
+      "box": [
+        22,
+        279,
+        411,
+        292
+      ]
+    }
+  ]
+}

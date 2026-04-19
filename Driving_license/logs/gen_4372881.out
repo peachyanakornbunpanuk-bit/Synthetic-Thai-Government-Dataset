@@ -1,0 +1,1229 @@
+Job started at: 2026-01-27 11:11:59
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Lmod is automatically replacing "cce/19.0.0" with "gcc-native/14.2".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.6.0" with "PrgEnv-gnu/8.6.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/25.03.0     2) cray-mpich/8.1.32
+
+
+Lmod is automatically replacing "gcc-native/14.2" with "gcc/12.2.0".
+
+
+The following have been reloaded with a version change:
+  1) cray-libsci/25.03.0 => cray-libsci/23.09.1.1
+  2) cray-mpich/8.1.32 => cray-mpich/8.1.27
+
+/project/lt200393-foullm/train/unslot/env/bin/python
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pillow in /project/lt200393-foullm/train/unslot/env/lib/python3.11/site-packages (11.3.0)
+🚀 Running Generator Script...
+✅ โหลดชื่อได้: 676 รายการ
+🚀 เริ่มสร้างใบขับขี่คละแบบ (Transport & Private Rules)...
+📦 เจอรูปต้นฉบับ: 106 รูป | เป้าหมาย: 1000 ใบ
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0001_Man_face_smart_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0002_Woman_face_id_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0003_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0004_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0005_Woman_face_id_023.png
+⏳ สร้างไปแล้ว 5...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0006_Woman_face_id_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0007_Woman_face_id_023.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0008_Woman_face_id_021.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0009_Man_face_smart_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0010_Woman_face_id_011.png
+⏳ สร้างไปแล้ว 10...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0011_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0012_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0013_Man_face_smart_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0014_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0015_Woman_face_id_044.png
+⏳ สร้างไปแล้ว 15...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0016_Woman_face_id_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0017_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0018_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0019_Man_face_smart_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0020_Woman_face_id_024.png
+⏳ สร้างไปแล้ว 20...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0021_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0022_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0023_Woman_face_id_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0024_Man_face_smart_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0025_Man_face_smart_023.png
+⏳ สร้างไปแล้ว 25...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0026_Woman_face_id_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0027_Woman_face_id_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0028_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0029_Woman_face_id_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0030_Woman_face_id_010.png
+⏳ สร้างไปแล้ว 30...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0031_Man_face_smart_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0032_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0033_Woman_face_id_052.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0034_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0035_Man_face_smart_001.png
+⏳ สร้างไปแล้ว 35...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0036_Man_face_smart_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0037_Man_face_smart_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0038_Man_face_smart_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0039_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0040_Man_face_smart_002.png
+⏳ สร้างไปแล้ว 40...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0041_Man_face_smart_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0042_Woman_face_id_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0043_Man_face_smart_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0044_Man_face_smart_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0045_Woman_face_id_017.png
+⏳ สร้างไปแล้ว 45...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0046_Woman_face_id_056.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0047_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0048_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0049_Woman_face_id_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0050_Woman_face_id_046.png
+⏳ สร้างไปแล้ว 50...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0051_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0052_Woman_face_id_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0053_Man_face_smart_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0054_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0055_Man_face_smart_031.png
+⏳ สร้างไปแล้ว 55...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0056_Woman_face_id_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0057_Woman_face_id_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0058_Woman_face_id_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0059_Woman_face_id_057.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0060_Woman_face_id_053.png
+⏳ สร้างไปแล้ว 60...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0061_Woman_face_id_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0062_Woman_face_id_058.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0063_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0064_Man_face_smart_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0065_Man_face_smart_039.png
+⏳ สร้างไปแล้ว 65...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0066_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0067_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0068_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0069_Woman_face_id_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0070_Woman_face_id_053.png
+⏳ สร้างไปแล้ว 70...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0071_Woman_face_id_045.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0072_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0073_Man_face_smart_023.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0074_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0075_Man_face_smart_044.png
+⏳ สร้างไปแล้ว 75...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0076_Man_face_smart_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0077_Man_face_smart_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0078_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0079_Man_face_smart_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0080_Woman_face_id_036.png
+⏳ สร้างไปแล้ว 80...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0081_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0082_Man_face_smart_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0083_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0084_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0085_Woman_face_id_026.png
+⏳ สร้างไปแล้ว 85...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0086_Woman_face_id_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0087_Man_face_smart_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0088_Woman_face_id_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0089_Man_face_smart_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0090_Woman_face_id_005.png
+⏳ สร้างไปแล้ว 90...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0091_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0092_Woman_face_id_058.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0093_Woman_face_id_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0094_Woman_face_id_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0095_Woman_face_id_003.png
+⏳ สร้างไปแล้ว 95...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0096_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0097_Woman_face_id_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0098_Woman_face_id_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0099_Woman_face_id_024.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0100_Man_face_smart_011.png
+⏳ สร้างไปแล้ว 100...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0101_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0102_Man_face_smart_030.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0103_Man_face_smart_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0104_Man_face_smart_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0105_Woman_face_id_031.png
+⏳ สร้างไปแล้ว 105...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0106_Woman_face_id_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0107_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0108_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0109_Man_face_smart_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0110_Woman_face_id_034.png
+⏳ สร้างไปแล้ว 110...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0111_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0112_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0113_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0114_Man_face_smart_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0115_Woman_face_id_016.png
+⏳ สร้างไปแล้ว 115...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0116_Man_face_smart_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0117_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0118_Woman_face_id_050.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0119_Man_face_smart_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0120_Woman_face_id_028.png
+⏳ สร้างไปแล้ว 120...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0121_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0122_Man_face_smart_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0123_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0124_Man_face_smart_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0125_Man_face_smart_037.png
+⏳ สร้างไปแล้ว 125...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0126_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0127_Woman_face_id_058.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0128_Woman_face_id_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0129_Man_face_smart_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0130_Man_face_smart_015.png
+⏳ สร้างไปแล้ว 130...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0131_Woman_face_id_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0132_Woman_face_id_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0133_Man_face_smart_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0134_Man_face_smart_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0135_Woman_face_id_020.png
+⏳ สร้างไปแล้ว 135...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0136_Man_face_smart_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0137_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0138_Woman_face_id_045.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0139_Man_face_smart_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0140_Woman_face_id_039.png
+⏳ สร้างไปแล้ว 140...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0141_Man_face_smart_041.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0142_Man_face_smart_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0143_Woman_face_id_048.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0144_Man_face_smart_024.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0145_Man_face_smart_042.png
+⏳ สร้างไปแล้ว 145...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0146_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0147_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0148_Woman_face_id_057.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0149_Man_face_smart_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0150_Woman_face_id_035.png
+⏳ สร้างไปแล้ว 150...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0151_Man_face_smart_035.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0152_Man_face_smart_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0153_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0154_Woman_face_id_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0155_Woman_face_id_005.png
+⏳ สร้างไปแล้ว 155...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0156_Man_face_smart_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0157_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0158_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0159_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0160_Woman_face_id_046.png
+⏳ สร้างไปแล้ว 160...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0161_Man_face_smart_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0162_Man_face_smart_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0163_Woman_face_id_050.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0164_Man_face_smart_032.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0165_Man_face_smart_029.png
+⏳ สร้างไปแล้ว 165...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0166_Woman_face_id_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0167_Man_face_smart_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0168_Woman_face_id_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0169_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0170_Woman_face_id_045.png
+⏳ สร้างไปแล้ว 170...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0171_Man_face_smart_025.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0172_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0173_Woman_face_id_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0174_Man_face_smart_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0175_Man_face_smart_046.png
+⏳ สร้างไปแล้ว 175...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0176_Woman_face_id_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0177_Man_face_smart_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0178_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0179_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0180_Man_face_smart_009.png
+⏳ สร้างไปแล้ว 180...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0181_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0182_Man_face_smart_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0183_Woman_face_id_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0184_Woman_face_id_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0185_Man_face_smart_037.png
+⏳ สร้างไปแล้ว 185...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0186_Woman_face_id_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0187_Woman_face_id_048.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0188_Man_face_smart_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0189_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0190_Man_face_smart_039.png
+⏳ สร้างไปแล้ว 190...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0191_Woman_face_id_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0192_Man_face_smart_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0193_Man_face_smart_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0194_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0195_Man_face_smart_020.png
+⏳ สร้างไปแล้ว 195...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0196_Man_face_smart_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0197_Man_face_smart_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0198_Woman_face_id_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0199_Man_face_smart_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0200_Man_face_smart_007.png
+⏳ สร้างไปแล้ว 200...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0201_Man_face_smart_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0202_Woman_face_id_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0203_Woman_face_id_021.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0204_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0205_Man_face_smart_035.png
+⏳ สร้างไปแล้ว 205...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0206_Woman_face_id_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0207_Woman_face_id_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0208_Woman_face_id_049.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0209_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0210_Man_face_smart_042.png
+⏳ สร้างไปแล้ว 210...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0211_Woman_face_id_058.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0212_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0213_Man_face_smart_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0214_Woman_face_id_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0215_Woman_face_id_052.png
+⏳ สร้างไปแล้ว 215...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0216_Woman_face_id_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0217_Woman_face_id_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0218_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0219_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0220_Woman_face_id_034.png
+⏳ สร้างไปแล้ว 220...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0221_Man_face_smart_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0222_Man_face_smart_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0223_Man_face_smart_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0224_Man_face_smart_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0225_Man_face_smart_017.png
+⏳ สร้างไปแล้ว 225...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0226_Woman_face_id_058.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0227_Man_face_smart_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0228_Woman_face_id_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0229_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0230_Man_face_smart_017.png
+⏳ สร้างไปแล้ว 230...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0231_Man_face_smart_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0232_Woman_face_id_053.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0233_Woman_face_id_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0234_Man_face_smart_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0235_Man_face_smart_005.png
+⏳ สร้างไปแล้ว 235...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0236_Woman_face_id_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0237_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0238_Woman_face_id_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0239_Woman_face_id_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0240_Man_face_smart_026.png
+⏳ สร้างไปแล้ว 240...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0241_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0242_Woman_face_id_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0243_Man_face_smart_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0244_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0245_Man_face_smart_024.png
+⏳ สร้างไปแล้ว 245...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0246_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0247_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0248_Man_face_smart_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0249_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0250_Man_face_smart_037.png
+⏳ สร้างไปแล้ว 250...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0251_Woman_face_id_003.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0252_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0253_Woman_face_id_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0254_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0255_Man_face_smart_045.png
+⏳ สร้างไปแล้ว 255...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0256_Man_face_smart_037.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0257_Woman_face_id_058.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0258_Woman_face_id_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0259_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0260_Woman_face_id_029.png
+⏳ สร้างไปแล้ว 260...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0261_Woman_face_id_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0262_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0263_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0264_Man_face_smart_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0265_Man_face_smart_031.png
+⏳ สร้างไปแล้ว 265...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0266_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0267_Man_face_smart_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0268_Man_face_smart_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0269_Woman_face_id_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0270_Woman_face_id_057.png
+⏳ สร้างไปแล้ว 270...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0271_Man_face_smart_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0272_Woman_face_id_001.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0273_Woman_face_id_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0274_Woman_face_id_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0275_Woman_face_id_057.png
+⏳ สร้างไปแล้ว 275...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0276_Man_face_smart_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0277_Man_face_smart_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0278_Woman_face_id_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0279_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0280_Woman_face_id_025.png
+⏳ สร้างไปแล้ว 280...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0281_Woman_face_id_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0282_Woman_face_id_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0283_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0284_Woman_face_id_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0285_Woman_face_id_023.png
+⏳ สร้างไปแล้ว 285...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0286_Woman_face_id_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0287_Woman_face_id_054.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0288_Woman_face_id_049.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0289_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0290_Man_face_smart_003.png
+⏳ สร้างไปแล้ว 290...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0291_Woman_face_id_039.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0292_Woman_face_id_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0293_Woman_face_id_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0294_Woman_face_id_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0295_Man_face_smart_009.png
+⏳ สร้างไปแล้ว 295...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0296_Man_face_smart_045.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0297_Woman_face_id_048.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0298_Man_face_smart_001.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0299_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0300_Man_face_smart_032.png
+⏳ สร้างไปแล้ว 300...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0301_Woman_face_id_055.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0302_Woman_face_id_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0303_Woman_face_id_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0304_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0305_Woman_face_id_019.png
+⏳ สร้างไปแล้ว 305...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0306_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0307_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0308_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0309_Man_face_smart_003.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0310_Woman_face_id_051.png
+⏳ สร้างไปแล้ว 310...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0311_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0312_Woman_face_id_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0313_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0314_Woman_face_id_025.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0315_Man_face_smart_014.png
+⏳ สร้างไปแล้ว 315...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0316_Man_face_smart_032.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0317_Woman_face_id_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0318_Woman_face_id_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0319_Woman_face_id_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0320_Man_face_smart_043.png
+⏳ สร้างไปแล้ว 320...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0321_Man_face_smart_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0322_Woman_face_id_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0323_Man_face_smart_021.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0324_Man_face_smart_023.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0325_Woman_face_id_002.png
+⏳ สร้างไปแล้ว 325...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0326_Woman_face_id_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0327_Woman_face_id_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0328_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0329_Man_face_smart_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0330_Man_face_smart_005.png
+⏳ สร้างไปแล้ว 330...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0331_Woman_face_id_056.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0332_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0333_Man_face_smart_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0334_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0335_Man_face_smart_042.png
+⏳ สร้างไปแล้ว 335...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0336_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0337_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0338_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0339_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0340_Man_face_smart_024.png
+⏳ สร้างไปแล้ว 340...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0341_Woman_face_id_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0342_Man_face_smart_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0343_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0344_Woman_face_id_035.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0345_Woman_face_id_049.png
+⏳ สร้างไปแล้ว 345...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0346_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0347_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0348_Woman_face_id_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0349_Man_face_smart_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0350_Man_face_smart_023.png
+⏳ สร้างไปแล้ว 350...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0351_Woman_face_id_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0352_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0353_Woman_face_id_057.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0354_Man_face_smart_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0355_Man_face_smart_046.png
+⏳ สร้างไปแล้ว 355...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0356_Woman_face_id_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0357_Woman_face_id_055.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0358_Man_face_smart_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0359_Man_face_smart_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0360_Man_face_smart_036.png
+⏳ สร้างไปแล้ว 360...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0361_Man_face_smart_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0362_Man_face_smart_019.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0363_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0364_Woman_face_id_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0365_Man_face_smart_035.png
+⏳ สร้างไปแล้ว 365...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0366_Woman_face_id_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0367_Man_face_smart_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0368_Woman_face_id_054.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0369_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0370_Man_face_smart_026.png
+⏳ สร้างไปแล้ว 370...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0371_Man_face_smart_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0372_Man_face_smart_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0373_Woman_face_id_030.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0374_Man_face_smart_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0375_Woman_face_id_005.png
+⏳ สร้างไปแล้ว 375...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0376_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0377_Man_face_smart_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0378_Woman_face_id_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0379_Man_face_smart_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0380_Woman_face_id_012.png
+⏳ สร้างไปแล้ว 380...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0381_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0382_Woman_face_id_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0383_Woman_face_id_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0384_Man_face_smart_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0385_Man_face_smart_035.png
+⏳ สร้างไปแล้ว 385...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0386_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0387_Woman_face_id_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0388_Woman_face_id_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0389_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0390_Woman_face_id_053.png
+⏳ สร้างไปแล้ว 390...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0391_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0392_Man_face_smart_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0393_Man_face_smart_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0394_Man_face_smart_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0395_Man_face_smart_013.png
+⏳ สร้างไปแล้ว 395...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0396_Man_face_smart_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0397_Woman_face_id_054.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0398_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0399_Man_face_smart_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0400_Woman_face_id_042.png
+⏳ สร้างไปแล้ว 400...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0401_Man_face_smart_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0402_Woman_face_id_052.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0403_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0404_Woman_face_id_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0405_Man_face_smart_015.png
+⏳ สร้างไปแล้ว 405...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0406_Woman_face_id_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0407_Woman_face_id_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0408_Woman_face_id_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0409_Woman_face_id_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0410_Man_face_smart_027.png
+⏳ สร้างไปแล้ว 410...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0411_Man_face_smart_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0412_Woman_face_id_003.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0413_Man_face_smart_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0414_Woman_face_id_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0415_Woman_face_id_019.png
+⏳ สร้างไปแล้ว 415...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0416_Woman_face_id_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0417_Man_face_smart_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0418_Man_face_smart_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0419_Man_face_smart_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0420_Woman_face_id_006.png
+⏳ สร้างไปแล้ว 420...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0421_Man_face_smart_030.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0422_Woman_face_id_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0423_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0424_Man_face_smart_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0425_Woman_face_id_054.png
+⏳ สร้างไปแล้ว 425...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0426_Man_face_smart_029.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0427_Man_face_smart_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0428_Man_face_smart_000.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0429_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0430_Man_face_smart_041.png
+⏳ สร้างไปแล้ว 430...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0431_Woman_face_id_049.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0432_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0433_Man_face_smart_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0434_Woman_face_id_056.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0435_Woman_face_id_017.png
+⏳ สร้างไปแล้ว 435...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0436_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0437_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0438_Woman_face_id_032.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0439_Man_face_smart_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0440_Woman_face_id_036.png
+⏳ สร้างไปแล้ว 440...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0441_Man_face_smart_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0442_Man_face_smart_003.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0443_Woman_face_id_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0444_Woman_face_id_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0445_Man_face_smart_041.png
+⏳ สร้างไปแล้ว 445...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0446_Man_face_smart_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0447_Woman_face_id_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0448_Man_face_smart_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0449_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0450_Woman_face_id_048.png
+⏳ สร้างไปแล้ว 450...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0451_Woman_face_id_023.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0452_Woman_face_id_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0453_Man_face_smart_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0454_Woman_face_id_049.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0455_Woman_face_id_058.png
+⏳ สร้างไปแล้ว 455...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0456_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0457_Woman_face_id_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0458_Woman_face_id_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0459_Man_face_smart_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0460_Man_face_smart_041.png
+⏳ สร้างไปแล้ว 460...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0461_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0462_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0463_Man_face_smart_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0464_Woman_face_id_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0465_Man_face_smart_046.png
+⏳ สร้างไปแล้ว 465...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0466_Woman_face_id_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0467_Woman_face_id_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0468_Woman_face_id_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0469_Woman_face_id_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0470_Man_face_smart_042.png
+⏳ สร้างไปแล้ว 470...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0471_Woman_face_id_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0472_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0473_Woman_face_id_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0474_Woman_face_id_057.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0475_Man_face_smart_045.png
+⏳ สร้างไปแล้ว 475...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0476_Man_face_smart_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0477_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0478_Woman_face_id_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0479_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0480_Woman_face_id_053.png
+⏳ สร้างไปแล้ว 480...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0481_Man_face_smart_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0482_Woman_face_id_058.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0483_Woman_face_id_056.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0484_Man_face_smart_019.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0485_Man_face_smart_002.png
+⏳ สร้างไปแล้ว 485...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0486_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0487_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0488_Man_face_smart_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0489_Woman_face_id_052.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0490_Woman_face_id_026.png
+⏳ สร้างไปแล้ว 490...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0491_Woman_face_id_049.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0492_Man_face_smart_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0493_Man_face_smart_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0494_Woman_face_id_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0495_Man_face_smart_012.png
+⏳ สร้างไปแล้ว 495...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0496_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0497_Man_face_smart_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0498_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0499_Man_face_smart_039.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0500_Woman_face_id_031.png
+⏳ สร้างไปแล้ว 500...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0501_Man_face_smart_000.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0502_Woman_face_id_025.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0503_Man_face_smart_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0504_Woman_face_id_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0505_Man_face_smart_047.png
+⏳ สร้างไปแล้ว 505...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0506_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0507_Woman_face_id_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0508_Woman_face_id_001.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0509_Woman_face_id_024.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0510_Man_face_smart_035.png
+⏳ สร้างไปแล้ว 510...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0511_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0512_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0513_Man_face_smart_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0514_Man_face_smart_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0515_Woman_face_id_036.png
+⏳ สร้างไปแล้ว 515...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0516_Woman_face_id_001.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0517_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0518_Woman_face_id_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0519_Man_face_smart_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0520_Man_face_smart_017.png
+⏳ สร้างไปแล้ว 520...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0521_Man_face_smart_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0522_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0523_Man_face_smart_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0524_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0525_Man_face_smart_006.png
+⏳ สร้างไปแล้ว 525...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0526_Woman_face_id_030.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0527_Man_face_smart_040.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0528_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0529_Man_face_smart_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0530_Woman_face_id_046.png
+⏳ สร้างไปแล้ว 530...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0531_Woman_face_id_001.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0532_Woman_face_id_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0533_Man_face_smart_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0534_Man_face_smart_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0535_Woman_face_id_005.png
+⏳ สร้างไปแล้ว 535...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0536_Woman_face_id_019.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0537_Woman_face_id_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0538_Woman_face_id_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0539_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0540_Man_face_smart_036.png
+⏳ สร้างไปแล้ว 540...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0541_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0542_Man_face_smart_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0543_Man_face_smart_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0544_Man_face_smart_019.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0545_Woman_face_id_049.png
+⏳ สร้างไปแล้ว 545...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0546_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0547_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0548_Woman_face_id_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0549_Woman_face_id_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0550_Woman_face_id_054.png
+⏳ สร้างไปแล้ว 550...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0551_Man_face_smart_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0552_Woman_face_id_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0553_Man_face_smart_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0554_Woman_face_id_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0555_Woman_face_id_029.png
+⏳ สร้างไปแล้ว 555...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0556_Man_face_smart_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0557_Man_face_smart_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0558_Man_face_smart_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0559_Man_face_smart_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0560_Man_face_smart_035.png
+⏳ สร้างไปแล้ว 560...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0561_Man_face_smart_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0562_Woman_face_id_057.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0563_Woman_face_id_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0564_Woman_face_id_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0565_Woman_face_id_009.png
+⏳ สร้างไปแล้ว 565...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0566_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0567_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0568_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0569_Man_face_smart_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0570_Woman_face_id_041.png
+⏳ สร้างไปแล้ว 570...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0571_Woman_face_id_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0572_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0573_Man_face_smart_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0574_Woman_face_id_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0575_Man_face_smart_001.png
+⏳ สร้างไปแล้ว 575...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0576_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0577_Man_face_smart_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0578_Woman_face_id_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0579_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0580_Woman_face_id_051.png
+⏳ สร้างไปแล้ว 580...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0581_Man_face_smart_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0582_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0583_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0584_Man_face_smart_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0585_Man_face_smart_005.png
+⏳ สร้างไปแล้ว 585...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0586_Woman_face_id_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0587_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0588_Man_face_smart_019.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0589_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0590_Woman_face_id_003.png
+⏳ สร้างไปแล้ว 590...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0591_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0592_Man_face_smart_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0593_Woman_face_id_052.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0594_Man_face_smart_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0595_Woman_face_id_043.png
+⏳ สร้างไปแล้ว 595...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0596_Woman_face_id_054.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0597_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0598_Woman_face_id_058.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0599_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0600_Man_face_smart_043.png
+⏳ สร้างไปแล้ว 600...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0601_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0602_Woman_face_id_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0603_Woman_face_id_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0604_Man_face_smart_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0605_Woman_face_id_018.png
+⏳ สร้างไปแล้ว 605...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0606_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0607_Woman_face_id_050.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0608_Woman_face_id_049.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0609_Man_face_smart_025.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0610_Woman_face_id_024.png
+⏳ สร้างไปแล้ว 610...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0611_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0612_Man_face_smart_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0613_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0614_Man_face_smart_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0615_Woman_face_id_032.png
+⏳ สร้างไปแล้ว 615...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0616_Woman_face_id_036.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0617_Man_face_smart_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0618_Woman_face_id_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0619_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0620_Man_face_smart_037.png
+⏳ สร้างไปแล้ว 620...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0621_Man_face_smart_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0622_Man_face_smart_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0623_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0624_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0625_Woman_face_id_023.png
+⏳ สร้างไปแล้ว 625...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0626_Man_face_smart_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0627_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0628_Woman_face_id_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0629_Man_face_smart_000.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0630_Man_face_smart_030.png
+⏳ สร้างไปแล้ว 630...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0631_Woman_face_id_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0632_Man_face_smart_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0633_Woman_face_id_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0634_Man_face_smart_013.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0635_Woman_face_id_008.png
+⏳ สร้างไปแล้ว 635...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0636_Woman_face_id_048.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0637_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0638_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0639_Woman_face_id_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0640_Man_face_smart_011.png
+⏳ สร้างไปแล้ว 640...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0641_Woman_face_id_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0642_Man_face_smart_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0643_Woman_face_id_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0644_Man_face_smart_038.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0645_Woman_face_id_005.png
+⏳ สร้างไปแล้ว 645...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0646_Woman_face_id_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0647_Man_face_smart_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0648_Woman_face_id_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0649_Man_face_smart_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0650_Woman_face_id_053.png
+⏳ สร้างไปแล้ว 650...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0651_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0652_Woman_face_id_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0653_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0654_Woman_face_id_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0655_Man_face_smart_030.png
+⏳ สร้างไปแล้ว 655...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0656_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0657_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0658_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0659_Woman_face_id_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0660_Man_face_smart_043.png
+⏳ สร้างไปแล้ว 660...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0661_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0662_Woman_face_id_052.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0663_Woman_face_id_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0664_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0665_Man_face_smart_036.png
+⏳ สร้างไปแล้ว 665...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0666_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0667_Man_face_smart_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0668_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0669_Woman_face_id_055.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0670_Man_face_smart_021.png
+⏳ สร้างไปแล้ว 670...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0671_Man_face_smart_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0672_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0673_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0674_Man_face_smart_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0675_Man_face_smart_011.png
+⏳ สร้างไปแล้ว 675...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0676_Man_face_smart_024.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0677_Woman_face_id_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0678_Woman_face_id_057.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0679_Man_face_smart_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0680_Woman_face_id_033.png
+⏳ สร้างไปแล้ว 680...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0681_Man_face_smart_032.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0682_Woman_face_id_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0683_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0684_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0685_Man_face_smart_036.png
+⏳ สร้างไปแล้ว 685...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0686_Woman_face_id_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0687_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0688_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0689_Man_face_smart_045.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0690_Woman_face_id_052.png
+⏳ สร้างไปแล้ว 690...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0691_Man_face_smart_045.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0692_Man_face_smart_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0693_Man_face_smart_001.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0694_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0695_Man_face_smart_028.png
+⏳ สร้างไปแล้ว 695...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0696_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0697_Woman_face_id_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0698_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0699_Man_face_smart_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0700_Man_face_smart_005.png
+⏳ สร้างไปแล้ว 700...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0701_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0702_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0703_Man_face_smart_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0704_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0705_Man_face_smart_007.png
+⏳ สร้างไปแล้ว 705...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0706_Woman_face_id_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0707_Woman_face_id_022.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0708_Woman_face_id_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0709_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0710_Man_face_smart_011.png
+⏳ สร้างไปแล้ว 710...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0711_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0712_Man_face_smart_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0713_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0714_Man_face_smart_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0715_Woman_face_id_048.png
+⏳ สร้างไปแล้ว 715...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0716_Man_face_smart_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0717_Woman_face_id_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0718_Woman_face_id_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0719_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0720_Man_face_smart_028.png
+⏳ สร้างไปแล้ว 720...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0721_Man_face_smart_045.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0722_Woman_face_id_048.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0723_Man_face_smart_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0724_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0725_Woman_face_id_012.png
+⏳ สร้างไปแล้ว 725...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0726_Woman_face_id_055.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0727_Woman_face_id_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0728_Man_face_smart_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0729_Woman_face_id_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0730_Man_face_smart_019.png
+⏳ สร้างไปแล้ว 730...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0731_Man_face_smart_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0732_Woman_face_id_048.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0733_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0734_Woman_face_id_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0735_Man_face_smart_036.png
+⏳ สร้างไปแล้ว 735...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0736_Man_face_smart_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0737_Woman_face_id_052.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0738_Man_face_smart_041.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0739_Woman_face_id_037.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0740_Woman_face_id_029.png
+⏳ สร้างไปแล้ว 740...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0741_Woman_face_id_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0742_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0743_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0744_Woman_face_id_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0745_Woman_face_id_029.png
+⏳ สร้างไปแล้ว 745...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0746_Woman_face_id_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0747_Woman_face_id_048.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0748_Woman_face_id_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0749_Man_face_smart_000.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0750_Woman_face_id_041.png
+⏳ สร้างไปแล้ว 750...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0751_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0752_Man_face_smart_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0753_Woman_face_id_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0754_Woman_face_id_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0755_Man_face_smart_033.png
+⏳ สร้างไปแล้ว 755...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0756_Man_face_smart_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0757_Woman_face_id_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0758_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0759_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0760_Woman_face_id_036.png
+⏳ สร้างไปแล้ว 760...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0761_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0762_Man_face_smart_035.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0763_Woman_face_id_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0764_Man_face_smart_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0765_Man_face_smart_031.png
+⏳ สร้างไปแล้ว 765...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0766_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0767_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0768_Woman_face_id_057.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0769_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0770_Woman_face_id_049.png
+⏳ สร้างไปแล้ว 770...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0771_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0772_Woman_face_id_029.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0773_Woman_face_id_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0774_Woman_face_id_054.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0775_Man_face_smart_031.png
+⏳ สร้างไปแล้ว 775...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0776_Woman_face_id_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0777_Man_face_smart_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0778_Man_face_smart_021.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0779_Woman_face_id_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0780_Woman_face_id_017.png
+⏳ สร้างไปแล้ว 780...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0781_Woman_face_id_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0782_Man_face_smart_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0783_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0784_Man_face_smart_014.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0785_Woman_face_id_037.png
+⏳ สร้างไปแล้ว 785...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0786_Woman_face_id_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0787_Man_face_smart_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0788_Man_face_smart_031.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0789_Man_face_smart_000.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0790_Man_face_smart_043.png
+⏳ สร้างไปแล้ว 790...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0791_Woman_face_id_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0792_Woman_face_id_055.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0793_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0794_Woman_face_id_029.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0795_Woman_face_id_003.png
+⏳ สร้างไปแล้ว 795...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0796_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0797_Woman_face_id_050.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0798_Woman_face_id_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0799_Man_face_smart_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0800_Woman_face_id_003.png
+⏳ สร้างไปแล้ว 800...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0801_Man_face_smart_010.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0802_Woman_face_id_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0803_Man_face_smart_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0804_Woman_face_id_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0805_Man_face_smart_030.png
+⏳ สร้างไปแล้ว 805...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0806_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0807_Woman_face_id_051.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0808_Man_face_smart_032.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0809_Man_face_smart_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0810_Woman_face_id_008.png
+⏳ สร้างไปแล้ว 810...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0811_Woman_face_id_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0812_Woman_face_id_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0813_Man_face_smart_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0814_Woman_face_id_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0815_Woman_face_id_049.png
+⏳ สร้างไปแล้ว 815...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0816_Woman_face_id_033.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0817_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0818_Woman_face_id_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0819_Woman_face_id_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0820_Woman_face_id_009.png
+⏳ สร้างไปแล้ว 820...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0821_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0822_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0823_Man_face_smart_036.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0824_Woman_face_id_004.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0825_Man_face_smart_007.png
+⏳ สร้างไปแล้ว 825...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0826_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0827_Woman_face_id_052.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0828_Man_face_smart_025.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0829_Woman_face_id_046.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0830_Man_face_smart_004.png
+⏳ สร้างไปแล้ว 830...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0831_Woman_face_id_027.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0832_Woman_face_id_051.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0833_Man_face_smart_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0834_Man_face_smart_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0835_Man_face_smart_013.png
+⏳ สร้างไปแล้ว 835...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0836_Woman_face_id_042.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0837_Woman_face_id_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0838_Woman_face_id_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0839_Man_face_smart_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0840_Man_face_smart_045.png
+⏳ สร้างไปแล้ว 840...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0841_Woman_face_id_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0842_Woman_face_id_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0843_Man_face_smart_028.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0844_Woman_face_id_011.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0845_Man_face_smart_012.png
+⏳ สร้างไปแล้ว 845...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0846_Woman_face_id_044.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0847_Woman_face_id_037.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0848_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0849_Man_face_smart_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0850_Woman_face_id_031.png
+⏳ สร้างไปแล้ว 850...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0851_Man_face_smart_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0852_Woman_face_id_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0853_Woman_face_id_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0854_Woman_face_id_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0855_Woman_face_id_043.png
+⏳ สร้างไปแล้ว 855...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0856_Man_face_smart_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0857_Man_face_smart_007.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0858_Woman_face_id_039.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0859_Man_face_smart_040.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0860_Woman_face_id_039.png
+⏳ สร้างไปแล้ว 860...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0861_Woman_face_id_018.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0862_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0863_Man_face_smart_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0864_Man_face_smart_032.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0865_Woman_face_id_042.png
+⏳ สร้างไปแล้ว 865...
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0866_Man_face_smart_011.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0867_Woman_face_id_049.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0868_Woman_face_id_008.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0869_Woman_face_id_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0870_Woman_face_id_019.png
+⏳ สร้างไปแล้ว 870...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0871_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0872_Man_face_smart_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0873_Man_face_smart_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0874_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0875_Woman_face_id_008.png
+⏳ สร้างไปแล้ว 875...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0876_Woman_face_id_058.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0877_Woman_face_id_027.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0878_Woman_face_id_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0879_Woman_face_id_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0880_Woman_face_id_052.png
+⏳ สร้างไปแล้ว 880...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0881_Man_face_smart_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0882_Man_face_smart_014.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0883_Man_face_smart_005.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0884_Woman_face_id_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0885_Man_face_smart_030.png
+⏳ สร้างไปแล้ว 885...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0886_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0887_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0888_Woman_face_id_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0889_Man_face_smart_008.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0890_Man_face_smart_039.png
+⏳ สร้างไปแล้ว 890...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0891_Man_face_smart_039.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0892_Man_face_smart_024.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0893_Man_face_smart_047.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0894_Man_face_smart_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0895_Woman_face_id_021.png
+⏳ สร้างไปแล้ว 895...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0896_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0897_Woman_face_id_037.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0898_Man_face_smart_021.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0899_Man_face_smart_002.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0900_Woman_face_id_058.png
+⏳ สร้างไปแล้ว 900...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0901_Man_face_smart_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0902_Woman_face_id_054.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0903_Man_face_smart_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0904_Man_face_smart_034.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0905_Man_face_smart_023.png
+⏳ สร้างไปแล้ว 905...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0906_Woman_face_id_017.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0907_Woman_face_id_048.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0908_Woman_face_id_003.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0909_Woman_face_id_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0910_Man_face_smart_032.png
+⏳ สร้างไปแล้ว 910...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0911_Woman_face_id_022.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0912_Woman_face_id_023.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0913_Man_face_smart_044.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0914_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0915_Woman_face_id_054.png
+⏳ สร้างไปแล้ว 915...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0916_Man_face_smart_023.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0917_Man_face_smart_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0918_Woman_face_id_039.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0919_Woman_face_id_016.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0920_Man_face_smart_008.png
+⏳ สร้างไปแล้ว 920...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0921_Woman_face_id_028.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0922_Woman_face_id_031.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0923_Woman_face_id_019.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0924_Man_face_smart_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0925_Woman_face_id_056.png
+⏳ สร้างไปแล้ว 925...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0926_Woman_face_id_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0927_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0928_Woman_face_id_035.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0929_Woman_face_id_049.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0930_Woman_face_id_047.png
+⏳ สร้างไปแล้ว 930...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0931_Woman_face_id_015.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0932_Woman_face_id_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0933_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0934_Woman_face_id_018.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0935_Man_face_smart_024.png
+⏳ สร้างไปแล้ว 935...
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0936_Man_face_smart_013.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0937_Man_face_smart_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0938_Man_face_smart_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0939_Woman_face_id_034.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0940_Woman_face_id_024.png
+⏳ สร้างไปแล้ว 940...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0941_Man_face_smart_016.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0942_Woman_face_id_037.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0943_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0944_Woman_face_id_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0945_Woman_face_id_044.png
+⏳ สร้างไปแล้ว 945...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0946_Man_face_smart_021.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0947_Man_face_smart_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0948_Woman_face_id_009.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0949_Man_face_smart_042.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0950_Man_face_smart_004.png
+⏳ สร้างไปแล้ว 950...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0951_Man_face_smart_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0952_Man_face_smart_025.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0953_Woman_face_id_043.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0954_Woman_face_id_006.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0955_Woman_face_id_001.png
+⏳ สร้างไปแล้ว 955...
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0956_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0957_Woman_face_id_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0958_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0959_Woman_face_id_033.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0960_Woman_face_id_007.png
+⏳ สร้างไปแล้ว 960...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0961_Man_face_smart_046.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0962_Man_face_smart_029.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0963_Woman_face_id_003.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0964_Woman_face_id_009.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0965_Man_face_smart_010.png
+⏳ สร้างไปแล้ว 965...
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0966_Man_face_smart_020.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0967_Woman_face_id_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B2_0968_Man_face_smart_020.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0969_Man_face_smart_010.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0970_Man_face_smart_026.png
+⏳ สร้างไปแล้ว 970...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0971_Woman_face_id_047.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0972_Woman_face_id_049.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0973_Woman_face_id_053.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0974_Man_face_smart_012.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0975_Man_face_smart_010.png
+⏳ สร้างไปแล้ว 975...
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0976_Man_face_smart_041.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0977_Woman_face_id_005.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0978_Man_face_smart_004.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0979_Woman_face_id_038.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0980_Man_face_smart_032.png
+⏳ สร้างไปแล้ว 980...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0981_Woman_face_id_030.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0982_Woman_face_id_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0983_Woman_face_id_006.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0984_Man_face_smart_043.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0985_Woman_face_id_008.png
+⏳ สร้างไปแล้ว 985...
+✅ Generated [ส่วนบุคคล ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B1_0986_Woman_face_id_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0987_Woman_face_id_048.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0988_Woman_face_id_017.png
+✅ Generated [ทุกประเภท ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T4_0989_Man_face_smart_002.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0990_Woman_face_id_027.png
+⏳ สร้างไปแล้ว 990...
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0991_Man_face_smart_007.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_0992_Man_face_smart_000.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0993_Woman_face_id_026.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0994_Woman_face_id_056.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B3_0995_Man_face_smart_004.png
+⏳ สร้างไปแล้ว 995...
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0996_Woman_face_id_015.png
+✅ Generated [ทุกประเภท ชนิดที่ 3]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T3_0997_Woman_face_id_035.png
+✅ Generated [ทุกประเภท ชนิดที่ 1]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T1_0998_Woman_face_id_026.png
+✅ Generated [ทุกประเภท ชนิดที่ 2]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Transport_Group/Lic_T2_0999_Man_face_smart_012.png
+✅ Generated [ส่วนบุคคล ชนิดที่ 4]: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license/Output_Private_Group/Lic_B4_1000_Woman_face_id_033.png
+⏳ สร้างไปแล้ว 1000...
+✨ เสร็จสมบูรณ์! แยกไฟล์ไว้ที่: /project/lt200393-foullm/Yanakorn_Peach/Dataset/Driving_license
+✅ Job Finished!

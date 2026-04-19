@@ -1,0 +1,177 @@
+{
+  "filename": "Passport051.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกจันทร์ วรางค์รัตน์",
+      "box": [
+        295,
+        200,
+        430,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4485341",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WARANGRAT",
+      "box": [
+        134,
+        66,
+        193,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKCHAN",
+      "box": [
+        134,
+        88,
+        213,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกจันทร์ วรางค์รัตน์",
+      "box": [
+        134,
+        106,
+        244,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "14 SEP 1975",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 0437 50364 30 9",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.70M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "28 DEC 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "27 DEC 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWARANGRAT<<KANOKCHAN<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        440,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA44853414THA7509148M2912278804375036430900<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

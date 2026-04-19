@@ -1,0 +1,177 @@
+{
+  "filename": "Passport043.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กถาเทพ ศรีจักร",
+      "box": [
+        295,
+        204,
+        395,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7413647",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SICHAK",
+      "box": [
+        134,
+        66,
+        169,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KATHATHEP",
+      "box": [
+        134,
+        88,
+        210,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กถาเทพ ศรีจักร",
+      "box": [
+        134,
+        106,
+        219,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "02 APR 1988",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 5274 28380 72 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.68M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "01 APR 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "31 MAR 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASICHAK<<KATHATHEP<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        421,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA74136474THA8804028M3003318652742838072800<",
+      "box": [
+        22,
+        279,
+        407,
+        292
+      ]
+    }
+  ]
+}

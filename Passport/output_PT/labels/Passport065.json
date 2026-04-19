@@ -1,0 +1,177 @@
+{
+  "filename": "Passport065.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เกื้อะเกื่อแงป พื่อเถื้อะเป่ว",
+      "box": [
+        290,
+        197,
+        440,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2576530",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHONPHON",
+      "box": [
+        134,
+        66,
+        187,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. CHAICHAI",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง เกื้อะเกื่อแงป พื่อเถื้อะเป่ว",
+      "box": [
+        134,
+        103,
+        259,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "12 SEP 2003",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "3 9168 82116 64 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.89M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "16 MAR 2024",
+      "box": [
+        134,
+        192,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "15 MAR 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHONPHON<<CHAICHAI<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        427,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA25765304THA030912F2903158391688211664100<<",
+      "box": [
+        22,
+        279,
+        396,
+        292
+      ]
+    }
+  ]
+}

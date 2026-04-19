@@ -1,0 +1,177 @@
+{
+  "filename": "Passport055.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "ใพ่กี่นี่ ผื้มหือไม้",
+      "box": [
+        286,
+        197,
+        392,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA1093265",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHAIWAN",
+      "box": [
+        134,
+        66,
+        179,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. THITJIT",
+      "box": [
+        134,
+        88,
+        190,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย ใพ่กี่นี่ ผื้มหือไม้",
+      "box": [
+        134,
+        103,
+        217,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "28 OCT 1986",
+      "box": [
+        204,
+        131,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 7096 93023 35 9",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.69M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "24 MAY 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "23 MAY 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHAIWAN<<THITJIT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        414,
+        270
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA10932654THA861028M3005238770969302335900<<",
+      "box": [
+        22,
+        279,
+        408,
+        292
+      ]
+    }
+  ]
+}

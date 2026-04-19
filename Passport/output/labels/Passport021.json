@@ -1,0 +1,177 @@
+{
+  "filename": "Passport021.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชนพ วุฒิรักษ์พร",
+      "box": [
+        294,
+        205,
+        412,
+        233
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4657629",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WUTTHIRAKPHON",
+      "box": [
+        134,
+        66,
+        217,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTNOP",
+      "box": [
+        134,
+        88,
+        194,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชนพ วุฒิรักษ์พร",
+      "box": [
+        134,
+        106,
+        227,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "23 MAY 1973",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 5244 06798 50 5",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.66M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "24 JUL 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "23 JUL 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWUTTHIRAKPHON<<KOTNOP<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        433,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA46576294THA7305238M2907238152440679850500<",
+      "box": [
+        22,
+        279,
+        402,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport087.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เล้าร้น น็อกโบ้รรรท",
+      "box": [
+        292,
+        211,
+        429,
+        229
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3429932",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SOMRAT",
+      "box": [
+        134,
+        66,
+        173,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. SIRINAN",
+      "box": [
+        134,
+        88,
+        192,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เล้าร้น น็อกโบ้รรรท",
+      "box": [
+        134,
+        105,
+        234,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "31 JAN 1983",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "4 0460 57163 26 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHON BURI",
+      "box": [
+        204,
+        154,
+        255,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.79M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "18 FEB 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "17 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASOMRAT<<SIRINAN<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        425,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA34299324THA830131M3002178404605716326800<<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport089.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "น้ำแย้สเก่อ อู่เจ้อะ",
+      "box": [
+        291,
+        205,
+        394,
+        233
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2345424",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHONKUN",
+      "box": [
+        134,
+        66,
+        181,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KORARAT",
+      "box": [
+        134,
+        88,
+        198,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย น้ำแย้สเก่อ อู่เจ้อะ",
+      "box": [
+        134,
+        103,
+        228,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "07 NOV 1986",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 4690 76326 66 7",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 NOV 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 NOV 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHONKUN<<KORARAT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA23454244THA861107M3011118846907632666700<<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

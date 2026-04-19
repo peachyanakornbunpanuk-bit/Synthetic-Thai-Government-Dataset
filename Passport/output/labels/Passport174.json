@@ -1,0 +1,177 @@
+{
+  "filename": "Passport174.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กฎกร ตระกูล",
+      "box": [
+        292,
+        214,
+        363,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8052940",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "TRAKUN",
+      "box": [
+        134,
+        66,
+        172,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTKON",
+      "box": [
+        134,
+        88,
+        193,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กฎกร ตระกูล",
+      "box": [
+        134,
+        109,
+        208,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "02 JUL 1977",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 1968 08296 88 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.76M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "20 JAN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "19 JAN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATRAKUN<<KOTKON<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        429,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA80529404THA7707028M3001198519680829688000<",
+      "box": [
+        22,
+        279,
+        412,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport035.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "โบ้โว่มกั้วเมื่อ กู่รึกสีน",
+      "box": [
+        289,
+        198,
+        428,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA1898041",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "RATTANWAN",
+      "box": [
+        134,
+        66,
+        192,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MISS NATTNAN",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นางสาว โบ้โว่มกั้วเมื่อ กู่รึกสีน",
+      "box": [
+        134,
+        103,
+        255,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "05 MAR 1986",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 2551 13833 37 8",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.74M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "26 FEB 2025",
+      "box": [
+        134,
+        192,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "25 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THARATTANWAN<<NATTNAN<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        438,
+        266
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA18980414THA860305F3002258125511383337800<<",
+      "box": [
+        22,
+        279,
+        396,
+        292
+      ]
+    }
+  ]
+}

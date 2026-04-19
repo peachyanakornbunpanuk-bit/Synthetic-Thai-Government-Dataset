@@ -1,0 +1,177 @@
+{
+  "filename": "Passport083.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เห่อเกียะหะ นิ่คพิ่งมั้ม",
+      "box": [
+        292,
+        205,
+        439,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5555704",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NATTRAT",
+      "box": [
+        134,
+        66,
+        177,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. NATTPORN",
+      "box": [
+        134,
+        88,
+        209,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง เห่อเกียะหะ นิ่คพิ่งมั้ม",
+      "box": [
+        134,
+        103,
+        242,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "14 DEC 1979",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 1866 07815 30 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.85M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "28 DEC 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "27 DEC 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANATTRAT<<NATTPORN<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        429,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA55557044THA791214F2912278218660781530300<<",
+      "box": [
+        22,
+        279,
+        387,
+        292
+      ]
+    }
+  ]
+}

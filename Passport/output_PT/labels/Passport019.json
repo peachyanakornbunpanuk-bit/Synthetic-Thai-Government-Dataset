@@ -1,0 +1,177 @@
+{
+  "filename": "Passport019.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "ใหแห็นม่ม ดื้อวื่อเล่ร",
+      "box": [
+        285,
+        199,
+        410,
+        228
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6049883",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "MANARAT",
+      "box": [
+        134,
+        66,
+        181,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. NATTKUN",
+      "box": [
+        134,
+        88,
+        198,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย ใหแห็นม่ม ดื้อวื่อเล่ร",
+      "box": [
+        134,
+        103,
+        236,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "11 SEP 1996",
+      "box": [
+        204,
+        131,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 6023 33749 99 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.71M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 JAN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 JAN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAMANARAT<<NATTKUN<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        435,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA60498834THA960911M3001118660233374999100<<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

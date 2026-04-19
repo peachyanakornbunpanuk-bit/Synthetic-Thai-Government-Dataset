@@ -1,0 +1,177 @@
+{
+  "filename": "Passport013.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "ร่อนดัวะเกะด่า ณั่วว่วนเร้า",
+      "box": [
+        294,
+        200,
+        462,
+        228
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA1764024",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "MANAWAN",
+      "box": [
+        134,
+        66,
+        184,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MISS SOMKUN",
+      "box": [
+        134,
+        88,
+        200,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นางสาว ร่อนดัวะเกะด่า ณั่วว่วนเร้า",
+      "box": [
+        134,
+        104,
+        278,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "15 JUN 1973",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 9833 29305 52 5",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.68M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "21 AUG 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "20 AUG 2029",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAMANAWAN<<SOMKUN<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        445,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA17640244THA730615F2908208198332930552500<<",
+      "box": [
+        22,
+        279,
+        398,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport245.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณกพัสตร์ นรเศรษฐ์",
+      "box": [
+        291,
+        213,
+        439,
+        234
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2151456",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NORASET",
+      "box": [
+        134,
+        66,
+        178,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKPHAT",
+      "box": [
+        134,
+        88,
+        212,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณกพัสตร์ นรเศรษฐ์",
+      "box": [
+        134,
+        106,
+        241,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "26 MAY 1971",
+      "box": [
+        204,
+        131,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 6307 84703 84 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.85M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "16 AUG 2024",
+      "box": [
+        134,
+        192,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "15 AUG 2029",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANORASET<<KANOKPHAT<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA21514564THA7105268M2908158763078470384300<",
+      "box": [
+        22,
+        279,
+        399,
+        292
+      ]
+    }
+  ]
+}

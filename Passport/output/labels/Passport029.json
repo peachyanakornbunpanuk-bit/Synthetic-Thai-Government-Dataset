@@ -1,0 +1,177 @@
+{
+  "filename": "Passport029.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชมลศรณ์ พันธ์วิจิตร",
+      "box": [
+        291,
+        210,
+        448,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7603910",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHANWICHIT",
+      "box": [
+        134,
+        66,
+        196,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTMONSON",
+      "box": [
+        134,
+        88,
+        214,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชมลศรณ์ พันธ์วิจิตร",
+      "box": [
+        134,
+        106,
+        243,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "21 APR 1990",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 4268 93186 54 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NAKHON RATCHASIMA",
+      "box": [
+        204,
+        154,
+        307,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "23 JAN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "22 JAN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHANWICHIT<<KOTMONSON<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        435,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA76039104THA9004218M2901228842689318654300<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

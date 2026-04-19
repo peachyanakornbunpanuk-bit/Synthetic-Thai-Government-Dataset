@@ -1,0 +1,177 @@
+{
+  "filename": "Passport251.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณัฐเดช จิตตานุภาพ",
+      "box": [
+        294,
+        202,
+        417,
+        235
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7532653",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHITTANUPHAP",
+      "box": [
+        134,
+        66,
+        208,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANATDATET",
+      "box": [
+        134,
+        88,
+        215,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณัฐเดช จิตตานุภาพ",
+      "box": [
+        134,
+        106,
+        242,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "29 FEB 1972",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "4 8978 01173 05 3",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 MAY 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 MAY 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHITTANUPHAP<<KANATDATET<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        424,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA75326534THA7202298M2905118489780117305300<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

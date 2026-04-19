@@ -1,0 +1,177 @@
+{
+  "filename": "Passport178.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กจิต ทัตภูวดล",
+      "box": [
+        293,
+        203,
+        384,
+        240
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA1775964",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THATPHUWADON",
+      "box": [
+        134,
+        66,
+        213,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTHIT",
+      "box": [
+        134,
+        88,
+        190,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กจิต ทัตภูวดล",
+      "box": [
+        134,
+        106,
+        211,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "19 JUL 1983",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 2529 05847 32 3",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.66M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 JUN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 JUN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHATPHUWADON<<KOTHIT<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA17759644THA8307198M3006118725290584732300<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

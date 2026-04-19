@@ -1,0 +1,177 @@
+{
+  "filename": "Passport241.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกกิต อากรนนท์",
+      "box": [
+        290,
+        200,
+        419,
+        229
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5556387",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "AKRANON",
+      "box": [
+        134,
+        66,
+        180,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKKIT",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกกิต อากรนนท์",
+      "box": [
+        134,
+        106,
+        230,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "06 SEP 1988",
+      "box": [
+        204,
+        131,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 5404 78730 08 3",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.82M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 OCT 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 OCT 2030",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAAKRANON<<KANOKKIT<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA55563874THA8809068M3010118154047873008300<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

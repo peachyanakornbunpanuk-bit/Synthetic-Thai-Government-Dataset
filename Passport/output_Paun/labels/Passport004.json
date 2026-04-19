@@ -1,0 +1,177 @@
+{
+  "filename": "Passport004.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เธ่งซฤปแค้บ เงี้ยงยวกว่ำย่ป",
+      "box": [
+        294,
+        197,
+        459,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2392865",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NATTCHAI",
+      "box": [
+        134,
+        66,
+        181,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KORASAK",
+      "box": [
+        134,
+        88,
+        197,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เธ่งซฤปแค้บ เงี้ยงยวกว่ำย่ป",
+      "box": [
+        134,
+        103,
+        269,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "22 APR 1985",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 0584 46092 74 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.66M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "04 MAR 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "03 MAR 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANATTCHAI<<KORASAK<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        426,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA23928654THA850422M2903038205844609274000<<",
+      "box": [
+        22,
+        279,
+        412,
+        292
+      ]
+    }
+  ]
+}

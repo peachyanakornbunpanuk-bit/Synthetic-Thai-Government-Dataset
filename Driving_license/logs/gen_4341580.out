@@ -1,0 +1,25 @@
+Job started at: 2026-01-21 23:08:07
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Lmod is automatically replacing "cce/19.0.0" with "gcc-native/14.2".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.6.0" with "PrgEnv-gnu/8.6.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/25.03.0     2) cray-mpich/8.1.32
+
+
+Lmod is automatically replacing "gcc-native/14.2" with "gcc/12.2.0".
+
+
+The following have been reloaded with a version change:
+  1) cray-libsci/25.03.0 => cray-libsci/23.09.1.1
+  2) cray-mpich/8.1.32 => cray-mpich/8.1.27
+
+/project/lt200393-foullm/train/unslot/env/bin/python
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pillow in /project/lt200393-foullm/train/unslot/env/lib/python3.11/site-packages (11.3.0)
+🚀 Running Generator Script...
+slurmstepd: error: *** JOB 4341580 ON lanta-g-097 CANCELLED AT 2026-01-21T23:09:02 ***

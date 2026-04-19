@@ -1,0 +1,177 @@
+{
+  "filename": "Passport018.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณกา สัลย์",
+      "box": [
+        295,
+        207,
+        367,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4502019",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SAN",
+      "box": [
+        134,
+        66,
+        153,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANKA",
+      "box": [
+        134,
+        88,
+        187,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณกา สัลย์",
+      "box": [
+        134,
+        106,
+        201,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "15 OCT 1980",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 5968 26643 08 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.74M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "10 JAN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "09 JAN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASAN<<KANKA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA45020194THA8010158M3001098559682664308800<",
+      "box": [
+        22,
+        279,
+        407,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport103.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชมนวัณย์ วงศ์พิสิฐ",
+      "box": [
+        289,
+        208,
+        398,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7841922",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WONGPHISIT",
+      "box": [
+        134,
+        66,
+        195,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTMONAWAN",
+      "box": [
+        134,
+        88,
+        223,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชมนวัณย์ วงศ์พิสิฐ",
+      "box": [
+        134,
+        106,
+        237,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "14 DEC 1997",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 5614 07602 99 7",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.71M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "03 JUL 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "02 JUL 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWONGPHISIT<<KOTMONAWAN<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        439,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA78419224THA9712148M3007028156140760299700<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

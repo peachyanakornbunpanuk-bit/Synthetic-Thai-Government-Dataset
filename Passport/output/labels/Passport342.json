@@ -1,0 +1,177 @@
+{
+  "filename": "Passport342.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชณิช พันธ์วิจิตร",
+      "box": [
+        290,
+        203,
+        407,
+        232
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA9652556",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHANWICHIT",
+      "box": [
+        134,
+        66,
+        196,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTNIT",
+      "box": [
+        134,
+        88,
+        190,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชณิช พันธ์วิจิตร",
+      "box": [
+        134,
+        106,
+        226,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "04 FEB 1987",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 9832 68173 79 9",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.69M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "06 AUG 2024",
+      "box": [
+        134,
+        192,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "05 AUG 2029",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHANWICHIT<<KOTNIT<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        421,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA96525564THA8702048M2908058198326817379900<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

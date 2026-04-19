@@ -1,0 +1,177 @@
+{
+  "filename": "Passport045.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "ดั่วโม่ เนี้ยนิ่นเสี่ยงร่ำ",
+      "box": [
+        289,
+        198,
+        419,
+        228
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8318620",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THITRAT",
+      "box": [
+        134,
+        66,
+        175,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. SOMPORN",
+      "box": [
+        134,
+        88,
+        205,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง ดั่วโม่ เนี้ยนิ่นเสี่ยงร่ำ",
+      "box": [
+        134,
+        103,
+        237,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "26 DEC 1970",
+      "box": [
+        204,
+        131,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 0185 89525 61 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.70M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "17 AUG 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "16 AUG 2030",
+      "box": [
+        134,
+        212,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHITRAT<<SOMPORN<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        426,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA83186204THA701226F3008168701858952561600<<",
+      "box": [
+        22,
+        279,
+        398,
+        292
+      ]
+    }
+  ]
+}

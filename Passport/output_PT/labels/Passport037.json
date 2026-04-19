@@ -1,0 +1,177 @@
+{
+  "filename": "Passport037.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เอี่ยนแหวเพื่อ ว้อกโนก",
+      "box": [
+        293,
+        200,
+        434,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5916433",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KORACHAI",
+      "box": [
+        134,
+        66,
+        182,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MISS THITWAN",
+      "box": [
+        134,
+        88,
+        203,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นางสาว เอี่ยนแหวเพื่อ ว้อกโนก",
+      "box": [
+        134,
+        104,
+        262,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "16 APR 1976",
+      "box": [
+        204,
+        131,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 2416 70680 96 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.71M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "29 JAN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "28 JAN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKORACHAI<<THITWAN<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        427,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA59164334THA760416F3001288824167068096100<<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

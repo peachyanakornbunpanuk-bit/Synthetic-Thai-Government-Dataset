@@ -1,0 +1,177 @@
+{
+  "filename": "Passport004.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เป้าะเล้จ้ง รั่น",
+      "box": [
+        292,
+        207,
+        381,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8847330",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NATTDEE",
+      "box": [
+        134,
+        66,
+        177,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MISS WARARAT",
+      "box": [
+        134,
+        88,
+        205,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นางสาว เป้าะเล้จ้ง รั่น",
+      "box": [
+        134,
+        104,
+        224,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "19 JAN 2003",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 3744 36425 65 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "KHON KAEN",
+      "box": [
+        204,
+        154,
+        259,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.68M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "15 JUN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "14 JUN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANATTDEE<<WARARAT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        266
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA88473304THA030119F2906148637443642565300<<",
+      "box": [
+        22,
+        279,
+        398,
+        292
+      ]
+    }
+  ]
+}

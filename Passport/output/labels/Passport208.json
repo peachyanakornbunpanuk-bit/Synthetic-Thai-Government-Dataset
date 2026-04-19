@@ -1,0 +1,177 @@
+{
+  "filename": "Passport208.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกธนานันท์ พิชญไกร",
+      "box": [
+        291,
+        208,
+        444,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8511324",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHICHONKRAI",
+      "box": [
+        134,
+        66,
+        199,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKTHANANAN",
+      "box": [
+        134,
+        88,
+        240,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกธนานันท์ พิชญไกร",
+      "box": [
+        134,
+        106,
+        250,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "03 MAY 1986",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 1342 78851 52 4",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "19 NOV 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "18 NOV 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHICHONKRAI<<KANOKTHANANAN<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        434,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA85113244THA8605038M2911188213427885152400<",
+      "box": [
+        22,
+        279,
+        394,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport230.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชคนธ์ พิสุทธิ์",
+      "box": [
+        294,
+        199,
+        383,
+        237
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7226369",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHISUT",
+      "box": [
+        134,
+        66,
+        169,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTKHON",
+      "box": [
+        134,
+        88,
+        200,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชคนธ์ พิสุทธิ์",
+      "box": [
+        134,
+        103,
+        213,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "25 FEB 1986",
+      "box": [
+        204,
+        131,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 4559 89005 39 8",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.67M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "18 NOV 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "17 NOV 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHISUT<<KOTKHON<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        424,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA72263694THA8602258M3011178145598900539800<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

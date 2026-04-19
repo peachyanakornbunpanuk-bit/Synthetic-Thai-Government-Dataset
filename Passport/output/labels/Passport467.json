@@ -1,0 +1,177 @@
+{
+  "filename": "Passport467.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกกชกร วรินทิพย์",
+      "box": [
+        293,
+        200,
+        410,
+        225
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8092333",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WARINTHIP",
+      "box": [
+        134,
+        66,
+        188,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKKOTCHAKON",
+      "box": [
+        134,
+        88,
+        246,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกกชกร วรินทิพย์",
+      "box": [
+        134,
+        106,
+        236,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "18 APR 1989",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 1513 02234 88 9",
+      "box": [
+        291,
+        132,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NAKHON RATCHASIMA",
+      "box": [
+        204,
+        154,
+        307,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.78M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "23 JUL 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "22 JUL 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWARINTHIP<<KANOKKOTCHAKON<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA80923334THA8904188M2907228515130223488900<",
+      "box": [
+        22,
+        279,
+        407,
+        292
+      ]
+    }
+  ]
+}

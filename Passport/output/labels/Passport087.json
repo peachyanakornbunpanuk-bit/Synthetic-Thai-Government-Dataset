@@ -1,0 +1,177 @@
+{
+  "filename": "Passport087.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชภร เทศ",
+      "box": [
+        293,
+        211,
+        357,
+        223
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2653648",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THET",
+      "box": [
+        134,
+        66,
+        160,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTPHON",
+      "box": [
+        134,
+        88,
+        199,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชภร เทศ",
+      "box": [
+        134,
+        109,
+        197,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "16 OCT 1991",
+      "box": [
+        204,
+        131,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 1738 47372 06 5",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.77M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "23 JAN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "22 JAN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHET<<KOTPHON<<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        425,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA26536484THA9110168M2901228117384737206500<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

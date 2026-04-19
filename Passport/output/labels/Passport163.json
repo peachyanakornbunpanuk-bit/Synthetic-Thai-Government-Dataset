@@ -1,0 +1,177 @@
+{
+  "filename": "Passport163.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกฌวรรณ กุศลพงศ์",
+      "box": [
+        290,
+        214,
+        421,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6875780",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KUSONPHONG",
+      "box": [
+        134,
+        66,
+        200,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKCHAWAN",
+      "box": [
+        134,
+        88,
+        228,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกฌวรรณ กุศลพงศ์",
+      "box": [
+        134,
+        106,
+        245,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "15 JAN 1971",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 3069 00557 06 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "12 FEB 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "11 FEB 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKUSONPHONG<<KANOKCHAWAN<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        444,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA68757804THA7101158M2902118130690055706100<",
+      "box": [
+        22,
+        279,
+        402,
+        292
+      ]
+    }
+  ]
+}

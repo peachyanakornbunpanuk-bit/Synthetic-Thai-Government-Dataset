@@ -1,0 +1,177 @@
+{
+  "filename": "Passport047.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "วิดเผ่งขิร หำฝ่ำณีต",
+      "box": [
+        291,
+        207,
+        416,
+        225
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA9223922",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THITPHON",
+      "box": [
+        134,
+        66,
+        183,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. WARAPORN",
+      "box": [
+        134,
+        88,
+        212,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง วิดเผ่งขิร หำฝ่ำณีต",
+      "box": [
+        134,
+        104,
+        231,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "24 FEB 1989",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 3660 19910 20 7",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.65M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "30 SEP 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "29 SEP 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHITPHON<<WARAPORN<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA92239224THA890224F2909298736601991020700<<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

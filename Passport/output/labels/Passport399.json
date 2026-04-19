@@ -1,0 +1,177 @@
+{
+  "filename": "Passport399.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กงเดช สมิต",
+      "box": [
+        294,
+        206,
+        359,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4201843",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SAMIT",
+      "box": [
+        134,
+        66,
+        164,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KONGDET",
+      "box": [
+        134,
+        88,
+        199,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กงเดช สมิต",
+      "box": [
+        134,
+        107,
+        202,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "02 SEP 1992",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "3 9025 90459 63 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "04 MAY 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "03 MAY 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASAMIT<<KONGDET<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        426,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA42018434THA9209028M2905038390259045963300<",
+      "box": [
+        22,
+        279,
+        411,
+        292
+      ]
+    }
+  ]
+}

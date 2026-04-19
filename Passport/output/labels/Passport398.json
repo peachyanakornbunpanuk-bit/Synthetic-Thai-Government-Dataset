@@ -1,0 +1,177 @@
+{
+  "filename": "Passport398.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชธนณัฎฐ์ กาญจนพงศ์",
+      "box": [
+        290,
+        212,
+        456,
+        233
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2229941",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KANCHANAPHONG",
+      "box": [
+        134,
+        66,
+        221,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTTHANANAT",
+      "box": [
+        134,
+        88,
+        225,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชธนณัฎฐ์ กาญจนพงศ์",
+      "box": [
+        134,
+        106,
+        253,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "22 FEB 1997",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 6381 63947 58 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.82M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "22 MAY 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "21 MAY 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKANCHANAPHONG<<KOTTHANANAT<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        442,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA22299414THA9702228M3005218563816394758100<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

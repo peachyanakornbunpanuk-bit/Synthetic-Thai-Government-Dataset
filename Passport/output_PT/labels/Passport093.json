@@ -1,0 +1,177 @@
+{
+  "filename": "Passport093.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เหื่อเริ้รเอี่ยล นิ้ยป้ำยก",
+      "box": [
+        294,
+        198,
+        434,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7355488",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "RATTANRAT",
+      "box": [
+        134,
+        66,
+        189,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. RATTANPORN",
+      "box": [
+        134,
+        88,
+        215,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เหื่อเริ้รเอี่ยล นิ้ยป้ำยก",
+      "box": [
+        134,
+        103,
+        242,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "10 MAR 1976",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 0897 10828 24 9",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "23 MAY 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "22 MAY 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THARATTANRAT<<RATTANPORN<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA73554884THA760310M3005228608971082824900<<",
+      "box": [
+        22,
+        279,
+        410,
+        292
+      ]
+    }
+  ]
+}

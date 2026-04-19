@@ -1,0 +1,177 @@
+{
+  "filename": "Passport066.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกนิจ ประจักษ์",
+      "box": [
+        292,
+        207,
+        390,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3324267",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PRACHAK",
+      "box": [
+        134,
+        66,
+        179,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKNIT",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกนิจ ประจักษ์",
+      "box": [
+        134,
+        106,
+        225,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "11 OCT 1970",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 6036 46477 61 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.90M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "24 JUL 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "23 JUL 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPRACHAK<<KANOKNIT<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        427,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA33242674THA7010118M2907238760364647761100<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

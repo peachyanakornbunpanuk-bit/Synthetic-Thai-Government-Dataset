@@ -1,0 +1,177 @@
+{
+  "filename": "Passport345.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณวัธน์ จิตตานุภาพ",
+      "box": [
+        289,
+        202,
+        401,
+        233
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6914957",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHITTANUPHAP",
+      "box": [
+        134,
+        66,
+        208,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KONWAT",
+      "box": [
+        134,
+        88,
+        195,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณวัธน์ จิตตานุภาพ",
+      "box": [
+        134,
+        106,
+        238,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "10 JUL 1994",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 0710 20895 79 2",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.67M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "16 JUN 2024",
+      "box": [
+        134,
+        192,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "15 JUN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHITTANUPHAP<<KONWAT<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA69149574THA9407108M2906158907102089579200<",
+      "box": [
+        22,
+        279,
+        405,
+        292
+      ]
+    }
+  ]
+}

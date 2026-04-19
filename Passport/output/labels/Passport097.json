@@ -1,0 +1,177 @@
+{
+  "filename": "Passport097.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชมนกรณ์ วรินทิพย์",
+      "box": [
+        293,
+        203,
+        425,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5585156",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WARINTHIP",
+      "box": [
+        134,
+        66,
+        188,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTMONAKON",
+      "box": [
+        134,
+        88,
+        222,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชมนกรณ์ วรินทิพย์",
+      "box": [
+        134,
+        106,
+        239,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "04 MAR 1976",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "6 2265 13871 73 2",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.78M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "24 JUN 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "23 JUN 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWARINTHIP<<KOTMONAKON<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        433,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA55851564THA7603048M3006238622651387173200<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

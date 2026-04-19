@@ -1,0 +1,177 @@
+{
+  "filename": "Passport393.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชญา ปุญญานันท์",
+      "box": [
+        292,
+        212,
+        419,
+        233
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8211193",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PUNYANAN",
+      "box": [
+        134,
+        66,
+        186,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTYA",
+      "box": [
+        134,
+        88,
+        185,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชญา ปุญญานันท์",
+      "box": [
+        134,
+        106,
+        232,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "18 SEP 2004",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 3194 31881 97 1",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "27 OCT 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "26 OCT 2030",
+      "box": [
+        134,
+        212,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPUNYANAN<<KOTYA<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        434,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA82111934THA0409188M3010268731943188197100<",
+      "box": [
+        22,
+        279,
+        397,
+        292
+      ]
+    }
+  ]
+}

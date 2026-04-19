@@ -1,0 +1,177 @@
+{
+  "filename": "Passport063.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เบอะเทิ้นเนี้ยง ไว้โก่เค้อ",
+      "box": [
+        291,
+        198,
+        445,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3961390",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHAICHAI",
+      "box": [
+        134,
+        66,
+        180,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. CHAIPORN",
+      "box": [
+        134,
+        88,
+        202,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เบอะเทิ้นเนี้ยง ไว้โก่เค้อ",
+      "box": [
+        134,
+        103,
+        250,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "12 OCT 2004",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 0082 18446 89 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "26 SEP 2024",
+      "box": [
+        134,
+        192,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "25 SEP 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHAICHAI<<CHAIPORN<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        421,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA39613904THA041012M2909258100821844689100<<",
+      "box": [
+        22,
+        279,
+        405,
+        292
+      ]
+    }
+  ]
+}

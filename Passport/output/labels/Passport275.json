@@ -1,0 +1,177 @@
+{
+  "filename": "Passport275.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชามาส พินิต",
+      "box": [
+        289,
+        207,
+        371,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5210272",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHINIT",
+      "box": [
+        134,
+        66,
+        167,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTHAMAT",
+      "box": [
+        134,
+        88,
+        207,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชามาส พินิต",
+      "box": [
+        134,
+        107,
+        212,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "25 DEC 1986",
+      "box": [
+        204,
+        131,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 8143 20991 02 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHON BURI",
+      "box": [
+        204,
+        154,
+        255,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.86M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "14 FEB 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "13 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHINIT<<KOTHAMAT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        422,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA52102724THA8612258M3002138881432099102600<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

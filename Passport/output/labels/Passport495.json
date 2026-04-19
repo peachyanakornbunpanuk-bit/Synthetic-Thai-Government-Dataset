@@ -1,0 +1,177 @@
+{
+  "filename": "Passport495.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณิศฐาน์ นิลุบล",
+      "box": [
+        294,
+        204,
+        396,
+        240
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2113669",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NILUBON",
+      "box": [
+        134,
+        66,
+        176,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANITTHA",
+      "box": [
+        134,
+        88,
+        202,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณิศฐาน์ นิลุบล",
+      "box": [
+        134,
+        106,
+        220,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "06 FEB 2000",
+      "box": [
+        204,
+        131,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 3970 37908 01 1",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.78M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "03 FEB 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "02 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANILUBON<<KANITTHA<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        424,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA21136694THA0002068M3002028939703790801100<",
+      "box": [
+        22,
+        279,
+        416,
+        292
+      ]
+    }
+  ]
+}

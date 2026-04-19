@@ -1,0 +1,177 @@
+{
+  "filename": "Passport311.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกชภร ศีชริน",
+      "box": [
+        293,
+        208,
+        384,
+        228
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3445154",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SICHARIN",
+      "box": [
+        134,
+        66,
+        178,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKOTPHON",
+      "box": [
+        134,
+        88,
+        226,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกชภร ศีชริน",
+      "box": [
+        134,
+        106,
+        217,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "24 OCT 1978",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 4875 83049 36 2",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.90M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "09 JAN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "08 JAN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASICHARIN<<KANOKOTPHON<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        428,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA34451544THA7810248M2901088748758304936200<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

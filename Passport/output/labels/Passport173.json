@@ -1,0 +1,177 @@
+{
+  "filename": "Passport173.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กตพัชร์ สิน",
+      "box": [
+        291,
+        213,
+        372,
+        230
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4564673",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SIN",
+      "box": [
+        134,
+        66,
+        150,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KATAPHAT",
+      "box": [
+        134,
+        88,
+        203,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กตพัชร์ สิน",
+      "box": [
+        134,
+        106,
+        200,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "02 AUG 1990",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "3 2005 82998 74 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "KHON KAEN",
+      "box": [
+        204,
+        154,
+        259,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.80M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "20 FEB 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "19 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASIN<<KATAPHAT<<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        421,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA45646734THA9008028M3002198320058299874600<",
+      "box": [
+        22,
+        279,
+        412,
+        292
+      ]
+    }
+  ]
+}

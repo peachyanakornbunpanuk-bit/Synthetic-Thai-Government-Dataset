@@ -1,0 +1,177 @@
+{
+  "filename": "Passport172.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กงกฤช วิจิตร์",
+      "box": [
+        295,
+        205,
+        379,
+        232
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8357839",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WICHIT",
+      "box": [
+        134,
+        66,
+        169,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KONGKRIT",
+      "box": [
+        134,
+        88,
+        203,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กงกฤช วิจิตร์",
+      "box": [
+        134,
+        106,
+        209,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "27 OCT 1985",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 9635 39572 32 5",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.84M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "31 MAY 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "30 MAY 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWICHIT<<KONGKRIT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        419,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA83578394THA8510278M3005308196353957232500<",
+      "box": [
+        22,
+        279,
+        400,
+        292
+      ]
+    }
+  ]
+}

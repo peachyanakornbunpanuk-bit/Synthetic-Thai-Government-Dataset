@@ -1,0 +1,177 @@
+{
+  "filename": "Passport429.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กจงอนันต์ กตเวที",
+      "box": [
+        290,
+        207,
+        393,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7630504",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KOTAWETHI",
+      "box": [
+        134,
+        66,
+        189,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTCHONGANAN",
+      "box": [
+        134,
+        88,
+        233,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กจงอนันต์ กตเวที",
+      "box": [
+        134,
+        106,
+        227,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "17 MAR 1986",
+      "box": [
+        204,
+        131,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 9580 25262 53 7",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.66M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "02 JUL 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "01 JUL 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKOTAWETHI<<KOTCHONGANAN<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        436,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA76305044THA8603178M3007018195802526253700<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

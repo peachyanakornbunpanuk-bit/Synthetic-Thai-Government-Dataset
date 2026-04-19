@@ -1,0 +1,177 @@
+{
+  "filename": "Passport070.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "โป่ตัวะย่อกได้ ไย่โร่หึงวู้ล",
+      "box": [
+        284,
+        202,
+        436,
+        237
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6680404",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NATTJIT",
+      "box": [
+        134,
+        66,
+        174,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. KORAJIT",
+      "box": [
+        134,
+        88,
+        200,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง โป่ตัวะย่อกได้ ไย่โร่หึงวู้ล",
+      "box": [
+        134,
+        106,
+        253,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "27 MAR 1975",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "7 3594 52561 95 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.72M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "04 MAY 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "03 MAY 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANATTJIT<<KORAJIT<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        407,
+        270
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA66804044THA750327F3005038735945256195000<<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

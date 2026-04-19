@@ -1,0 +1,177 @@
+{
+  "filename": "Passport051.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เวิ่นแฟ็คเบ้ะ ร่วรบฤ",
+      "box": [
+        292,
+        200,
+        422,
+        235
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7639743",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NATTCHAI",
+      "box": [
+        134,
+        66,
+        181,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. SIRIPORN",
+      "box": [
+        134,
+        88,
+        203,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง เวิ่นแฟ็คเบ้ะ ร่วรบฤ",
+      "box": [
+        134,
+        104,
+        233,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "02 OCT 1984",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 1987 80310 57 0",
+      "box": [
+        291,
+        132,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "KHON KAEN",
+      "box": [
+        204,
+        154,
+        259,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.78M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "21 MAY 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "20 MAY 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANATTCHAI<<SIRIPORN<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        417,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA76397434THA841002F2905208819878031057000<<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

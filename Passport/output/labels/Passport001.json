@@ -1,0 +1,177 @@
+{
+  "filename": "Passport001.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณกมณี กีรติสุข",
+      "box": [
+        292,
+        211,
+        395,
+        229
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7404521",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KIRATISUK",
+      "box": [
+        134,
+        66,
+        184,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKMANI",
+      "box": [
+        134,
+        88,
+        212,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณกมณี กีรติสุข",
+      "box": [
+        134,
+        106,
+        222,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "19 MAY 1971",
+      "box": [
+        204,
+        132,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 7769 00810 65 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "BANGKOK",
+      "box": [
+        204,
+        154,
+        250,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.81M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "02 MAR 2024",
+      "box": [
+        134,
+        193,
+        188,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "01 MAR 2029",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKIRATISUK<<KANOKMANI<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        423,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA74045214THA7105198M2903018977690081065600<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

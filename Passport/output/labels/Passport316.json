@@ -1,0 +1,177 @@
+{
+  "filename": "Passport316.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กตวัฒน์ วาทกุล",
+      "box": [
+        294,
+        203,
+        381,
+        234
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6892120",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WATHUK",
+      "box": [
+        134,
+        66,
+        175,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTAWAT",
+      "box": [
+        134,
+        88,
+        199,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กตวัฒน์ วาทกุล",
+      "box": [
+        134,
+        106,
+        218,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "24 OCT 1991",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 6173 57685 16 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.74M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "15 JUL 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "14 JUL 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWATHUK<<KOTAWAT<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        434,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA68921204THA9110248M3007148561735768516600<",
+      "box": [
+        22,
+        279,
+        398,
+        292
+      ]
+    }
+  ]
+}

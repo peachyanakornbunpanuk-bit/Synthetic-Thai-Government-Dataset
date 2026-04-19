@@ -1,0 +1,177 @@
+{
+  "filename": "Passport082.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณิศนันท์ นาถ",
+      "box": [
+        292,
+        208,
+        380,
+        228
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7737540",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "NAT",
+      "box": [
+        134,
+        66,
+        154,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANITNAN",
+      "box": [
+        134,
+        88,
+        203,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณิศนันท์ นาถ",
+      "box": [
+        134,
+        106,
+        215,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "19 DEC 1989",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 9727 42554 50 8",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.84M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "08 NOV 2025",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "07 NOV 2030",
+      "box": [
+        134,
+        213,
+        187,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THANAT<<KANITNAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        428,
+        266
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA77375404THA8912198M3011078597274255450800<",
+      "box": [
+        22,
+        279,
+        396,
+        292
+      ]
+    }
+  ]
+}

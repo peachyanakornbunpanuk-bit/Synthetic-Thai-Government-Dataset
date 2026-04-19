@@ -1,0 +1,177 @@
+{
+  "filename": "Passport112.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เง่าแขร อฤเดื้อะไก่",
+      "box": [
+        292,
+        196,
+        417,
+        234
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7278484",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THITNAN",
+      "box": [
+        134,
+        66,
+        176,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. SIRINAN",
+      "box": [
+        134,
+        88,
+        192,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เง่าแขร อฤเดื้อะไก่",
+      "box": [
+        134,
+        103,
+        230,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "11 OCT 1977",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "1 2600 94579 12 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "17 OCT 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "16 OCT 2029",
+      "box": [
+        134,
+        212,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHITNAN<<SIRINAN<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        419,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA72784844THA771011M2910168126009457912800<<",
+      "box": [
+        22,
+        279,
+        399,
+        292
+      ]
+    }
+  ]
+}

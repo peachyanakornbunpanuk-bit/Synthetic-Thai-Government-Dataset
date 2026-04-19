@@ -1,0 +1,53 @@
+Job started at: 2026-01-05 10:33:22
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Lmod is automatically replacing "cce/19.0.0" with "gcc-native/14.2".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.6.0" with "PrgEnv-gnu/8.6.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/25.03.0     2) cray-mpich/8.1.32
+
+
+Lmod is automatically replacing "gcc-native/14.2" with "gcc/12.2.0".
+
+
+The following have been reloaded with a version change:
+  1) cray-libsci/25.03.0 => cray-libsci/23.09.1.1
+  2) cray-mpich/8.1.32 => cray-mpich/8.1.27
+
+/project/lt200393-foullm/train/unslot/env/bin/python
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pillow in /project/lt200393-foullm/train/unslot/env/lib/python3.11/site-packages (11.3.0)
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f162c6bb850>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f162c26a910>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f162c26b050>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f162c26bf50>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f162c284bd0>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+ERROR: Could not find a version that satisfies the requirement faker (from versions: none)
+ERROR: No matching distribution found for faker
+🚀 Running Passport Generator Script...
+Defaulting to user installation because normal site-packages is not writeable
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f30a3331dd0>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f30a1960b50>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f30a1961550>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f30a1962210>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f30a1962ed0>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /simple/faker/
+ERROR: Could not find a version that satisfies the requirement faker (from versions: none)
+ERROR: No matching distribution found for faker
+Traceback (most recent call last):
+  File "/lustrefs/disk/project/lt200393-foullm/Yanakorn_Peach/Dataset/Passport/src/generate_passport.py", line 9, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lustrefs/disk/project/lt200393-foullm/Yanakorn_Peach/Dataset/Passport/src/generate_passport.py", line 11, in <module>
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "faker"])
+  File "/project/lt200393-foullm/train/unslot/env/lib/python3.11/subprocess.py", line 413, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['/project/lt200393-foullm/train/unslot/env/bin/python', '-m', 'pip', 'install', 'faker']' returned non-zero exit status 1.
+✅ Job Finished!

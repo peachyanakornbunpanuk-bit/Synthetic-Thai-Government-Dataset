@@ -1,0 +1,177 @@
+{
+  "filename": "Passport239.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณิชฑ์ ศักดิ์สกุล",
+      "box": [
+        290,
+        207,
+        407,
+        231
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4078258",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SAKSAKUN",
+      "box": [
+        134,
+        66,
+        184,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANIT",
+      "box": [
+        134,
+        88,
+        184,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณิชฑ์ ศักดิ์สกุล",
+      "box": [
+        134,
+        103,
+        221,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "25 DEC 1992",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 6101 21336 84 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.68M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "02 JUL 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "01 JUL 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASAKSAKUN<<KANIT<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        425,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA40782584THA9212258M3007018861012133684100<",
+      "box": [
+        22,
+        279,
+        401,
+        292
+      ]
+    }
+  ]
+}

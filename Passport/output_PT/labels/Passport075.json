@@ -1,0 +1,177 @@
+{
+  "filename": "Passport075.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "งิ้นว่พโอะ เพี่ยนน่อยจื้ง",
+      "box": [
+        290,
+        206,
+        451,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2896494",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "MANADEE",
+      "box": [
+        134,
+        66,
+        180,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. WARADEE",
+      "box": [
+        134,
+        88,
+        199,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย งิ้นว่พโอะ เพี่ยนน่อยจื้ง",
+      "box": [
+        134,
+        103,
+        248,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "17 JAN 1971",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 4318 07002 44 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.84M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "18 DEC 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "17 DEC 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAMANADEE<<WARADEE<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        435,
+        266
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA28964944THA710117M2912178943180700244600<<",
+      "box": [
+        22,
+        279,
+        399,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport014.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เฐียแม้วอฤ ครญูกโมสดี้",
+      "box": [
+        295,
+        199,
+        458,
+        242
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5267602",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WARARAT",
+      "box": [
+        134,
+        66,
+        180,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. RATTANDEE",
+      "box": [
+        134,
+        88,
+        208,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เฐียแม้วอฤ ครญูกโมสดี้",
+      "box": [
+        134,
+        103,
+        250,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "10 SEP 1978",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 8764 38815 78 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NAKHON RATCHASIMA",
+      "box": [
+        204,
+        154,
+        307,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.87M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "04 OCT 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "03 OCT 2029",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWARARAT<<RATTANDEE<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        430,
+        266
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA52676024THA780910M2910038287643881578000<<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

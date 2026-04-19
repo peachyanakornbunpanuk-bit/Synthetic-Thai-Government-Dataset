@@ -1,0 +1,177 @@
+{
+  "filename": "Passport145.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณิษวรรณ กชกรกมุท",
+      "box": [
+        293,
+        205,
+        441,
+        239
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7382404",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "KOTKONKAMUT",
+      "box": [
+        134,
+        66,
+        209,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANITWAN",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณิษวรรณ กชกรกมุท",
+      "box": [
+        134,
+        107,
+        246,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "25 MAY 1980",
+      "box": [
+        204,
+        132,
+        264,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "3 5431 13267 51 0",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.83M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "03 SEP 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "02 SEP 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAKOTKONKAMUT<<KANITWAN<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        438,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA73824044THA8005258M3009028354311326751000<",
+      "box": [
+        22,
+        279,
+        407,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport139.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชญษร ชัยวานิช",
+      "box": [
+        292,
+        211,
+        398,
+        227
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA8203673",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHAIWANIT",
+      "box": [
+        134,
+        66,
+        189,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTNSON",
+      "box": [
+        134,
+        88,
+        199,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชญษร ชัยวานิช",
+      "box": [
+        134,
+        106,
+        227,
+        119
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "28 DEC 1995",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 9445 12000 09 5",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.74M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "14 OCT 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "13 OCT 2029",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHAIWANIT<<KOTNSON<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        429,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA82036734THA9512288M2910138294451200009500<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

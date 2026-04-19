@@ -1,0 +1,177 @@
+{
+  "filename": "Passport020.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "เลื้อเย้รศ่า ลื้อมื้ลมรรก",
+      "box": [
+        291,
+        197,
+        417,
+        225
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA3387085",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "PHONDEE",
+      "box": [
+        134,
+        66,
+        179,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. THITSAK",
+      "box": [
+        134,
+        88,
+        194,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย เลื้อเย้รศ่า ลื้อมื้ลมรรก",
+      "box": [
+        134,
+        103,
+        243,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "16 SEP 1977",
+      "box": [
+        204,
+        131,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 8119 16781 36 3",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "UDON THANI",
+      "box": [
+        204,
+        154,
+        263,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.79M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "23 APR 2025",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "22 APR 2030",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAPHONDEE<<THITSAK<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        421,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA33870854THA770916M3004228881191678136300<<",
+      "box": [
+        22,
+        279,
+        403,
+        292
+      ]
+    }
+  ]
+}

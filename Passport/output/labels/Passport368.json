@@ -1,0 +1,177 @@
+{
+  "filename": "Passport368.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กติพงศ์ บุตร",
+      "box": [
+        294,
+        214,
+        380,
+        234
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7527823",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "BUT",
+      "box": [
+        134,
+        66,
+        154,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KATIPHONG",
+      "box": [
+        134,
+        88,
+        209,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กติพงศ์ บุตร",
+      "box": [
+        134,
+        106,
+        205,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "20 AUG 1995",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 3128 07058 77 7",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NAKHON RATCHASIMA",
+      "box": [
+        204,
+        154,
+        307,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.88M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "07 AUG 2024",
+      "box": [
+        134,
+        193,
+        187,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "06 AUG 2029",
+      "box": [
+        134,
+        212,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THABUT<<KATIPHONG<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        424,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA75278234THA9508208M2908068531280705877700<",
+      "box": [
+        22,
+        279,
+        410,
+        292
+      ]
+    }
+  ]
+}

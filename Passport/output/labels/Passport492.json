@@ -1,0 +1,177 @@
+{
+  "filename": "Passport492.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กฎเกณฑ์ ธรไพบูลย์",
+      "box": [
+        293,
+        201,
+        421,
+        239
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA4918925",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THORAPHAIBUN",
+      "box": [
+        134,
+        66,
+        208,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTKEN",
+      "box": [
+        134,
+        88,
+        192,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กฎเกณฑ์ ธรไพบูลย์",
+      "box": [
+        134,
+        106,
+        236,
+        120
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "25 JUN 1994",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "9 4952 35807 40 5",
+      "box": [
+        291,
+        132,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHIANG MAI",
+      "box": [
+        204,
+        154,
+        260,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.75M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "05 JAN 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "04 JAN 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHORAPHAIBUN<<KOTKEN<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        426,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA49189254THA9406258M2901048949523580740500<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport130.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กณิการ์ เวทีสกุล",
+      "box": [
+        291,
+        204,
+        399,
+        241
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA9882978",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WETHISAKUN",
+      "box": [
+        134,
+        66,
+        196,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANIKA",
+      "box": [
+        134,
+        88,
+        190,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กณิการ์ เวทีสกุล",
+      "box": [
+        134,
+        106,
+        220,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "27 FEB 1977",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "5 9533 05756 89 9",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "CHON BURI",
+      "box": [
+        204,
+        154,
+        255,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.77M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "02 SEP 2024",
+      "box": [
+        134,
+        193,
+        185,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "01 SEP 2029",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWETHISAKUN<<KANIKA<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        426,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA98829784THA7702278M2909018595330575689900<",
+      "box": [
+        22,
+        279,
+        404,
+        292
+      ]
+    }
+  ]
+}

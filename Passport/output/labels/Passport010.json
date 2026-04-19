@@ -1,0 +1,177 @@
+{
+  "filename": "Passport010.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กงมา ศักดิ์พิทักษ์",
+      "box": [
+        294,
+        199,
+        386,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA5589693",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "SAKPHITHAK",
+      "box": [
+        134,
+        66,
+        194,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KONGMA",
+      "box": [
+        134,
+        88,
+        195,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กงมา ศักดิ์พิทักษ์",
+      "box": [
+        134,
+        103,
+        226,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "24 AUG 1974",
+      "box": [
+        204,
+        132,
+        262,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 7206 68736 49 6",
+      "box": [
+        291,
+        131,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "SONGKHLA",
+      "box": [
+        204,
+        154,
+        256,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.84M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "19 AUG 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "18 AUG 2030",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THASAKPHITHAK<<KONGMA<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        429,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA55896934THA7408248M3008188272066873649600<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "Passport154.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กจรศักดิ์ ยุราพันธ์",
+      "box": [
+        290,
+        199,
+        401,
+        237
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA2255267",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "YURAPHAN",
+      "box": [
+        134,
+        66,
+        186,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KATNSAK",
+      "box": [
+        134,
+        88,
+        197,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กจรศักดิ์ ยุราพันธ์",
+      "box": [
+        134,
+        103,
+        228,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "26 MAY 1978",
+      "box": [
+        204,
+        131,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "4 6623 03295 44 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "RAYONG",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.90M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "07 OCT 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "06 OCT 2030",
+      "box": [
+        134,
+        212,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAYURAPHAN<<KATNSAK<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        431,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA22552674THA7805268M3010068466230329544800<",
+      "box": [
+        22,
+        279,
+        406,
+        292
+      ]
+    }
+  ]
+}

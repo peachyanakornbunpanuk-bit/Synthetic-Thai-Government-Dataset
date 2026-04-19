@@ -1,0 +1,177 @@
+{
+  "filename": "Passport210.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กชศักดิ์ จันทร์",
+      "box": [
+        290,
+        199,
+        384,
+        226
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA6608524",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "CHAN",
+      "box": [
+        134,
+        66,
+        161,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KOTSAK",
+      "box": [
+        134,
+        88,
+        191,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กชศักดิ์ จันทร์",
+      "box": [
+        134,
+        103,
+        212,
+        116
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "15 JUN 2002",
+      "box": [
+        204,
+        132,
+        261,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 1036 69565 39 1",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NONTHABURI",
+      "box": [
+        204,
+        154,
+        266,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.79M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "08 OCT 2025",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "07 OCT 2030",
+      "box": [
+        134,
+        213,
+        186,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THACHAN<<KOTSAK<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        428,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA66085244THA0206158M3010078210366956539100<",
+      "box": [
+        22,
+        279,
+        405,
+        292
+      ]
+    }
+  ]
+}

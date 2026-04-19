@@ -1,0 +1,177 @@
+{
+  "filename": "Passport276.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กนกธนุส วริทธิพงศ์",
+      "box": [
+        292,
+        206,
+        420,
+        232
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA7128828",
+      "box": [
+        318,
+        47,
+        381,
+        55
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "WARITTHIPHONG",
+      "box": [
+        134,
+        66,
+        214,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MR. KANOKTHANUT",
+      "box": [
+        134,
+        88,
+        227,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาย กนกธนุส วริทธิพงศ์",
+      "box": [
+        134,
+        106,
+        235,
+        121
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "16 AUG 1986",
+      "box": [
+        204,
+        131,
+        263,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "2 3300 35245 65 8",
+      "box": [
+        291,
+        131,
+        374,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "M",
+      "box": [
+        133,
+        153,
+        140,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "NAKHON RATCHASIMA",
+      "box": [
+        204,
+        154,
+        307,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.89M",
+      "box": [
+        134,
+        173,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "11 APR 2024",
+      "box": [
+        134,
+        193,
+        186,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "10 APR 2029",
+      "box": [
+        134,
+        213,
+        185,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THAWARITTHIPHONG<<KANOKTHANUT<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        432,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA71288284THA8608168M2904108233003524565800<",
+      "box": [
+        22,
+        279,
+        410,
+        292
+      ]
+    }
+  ]
+}

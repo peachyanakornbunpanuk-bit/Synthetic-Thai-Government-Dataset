@@ -1,0 +1,177 @@
+{
+  "filename": "Passport119.jpg",
+  "width": 448,
+  "height": 334,
+  "annotations": [
+    {
+      "field": "signature",
+      "text": "กะผุ่น ฎุวั่วค่านเค็ต",
+      "box": [
+        289,
+        204,
+        398,
+        236
+      ]
+    },
+    {
+      "field": "type_code",
+      "text": "P",
+      "box": [
+        145,
+        46,
+        152,
+        53
+      ]
+    },
+    {
+      "field": "country_code",
+      "text": "THA",
+      "box": [
+        210,
+        46,
+        230,
+        53
+      ]
+    },
+    {
+      "field": "passport_no",
+      "text": "AA9730168",
+      "box": [
+        318,
+        47,
+        381,
+        56
+      ]
+    },
+    {
+      "field": "surname_en",
+      "text": "THITCHAI",
+      "box": [
+        134,
+        66,
+        178,
+        73
+      ]
+    },
+    {
+      "field": "title_name_en",
+      "text": "MRS. NATTKUN",
+      "box": [
+        134,
+        88,
+        204,
+        95
+      ]
+    },
+    {
+      "field": "name_th",
+      "text": "นาง กะผุ่น ฎุวั่วค่านเค็ต",
+      "box": [
+        134,
+        104,
+        231,
+        122
+      ]
+    },
+    {
+      "field": "nationality",
+      "text": "THAI",
+      "box": [
+        134,
+        132,
+        156,
+        139
+      ]
+    },
+    {
+      "field": "dob",
+      "text": "10 JUL 2001",
+      "box": [
+        204,
+        132,
+        260,
+        139
+      ]
+    },
+    {
+      "field": "id_number",
+      "text": "8 3477 92824 04 0",
+      "box": [
+        291,
+        132,
+        375,
+        139
+      ]
+    },
+    {
+      "field": "sex",
+      "text": "F",
+      "box": [
+        133,
+        153,
+        138,
+        160
+      ]
+    },
+    {
+      "field": "place_of_birth",
+      "text": "PHUKET",
+      "box": [
+        204,
+        154,
+        243,
+        161
+      ]
+    },
+    {
+      "field": "height",
+      "text": "1.66M",
+      "box": [
+        134,
+        172,
+        159,
+        180
+      ]
+    },
+    {
+      "field": "date_of_issue",
+      "text": "14 FEB 2025",
+      "box": [
+        134,
+        193,
+        184,
+        200
+      ]
+    },
+    {
+      "field": "date_of_expiry",
+      "text": "13 FEB 2030",
+      "box": [
+        134,
+        213,
+        184,
+        220
+      ]
+    },
+    {
+      "field": "mrz_line1",
+      "text": "P<THATHITCHAI<<NATTKUN<<<<<<<<<<<<<<<<<<<<<<",
+      "box": [
+        22,
+        254,
+        420,
+        267
+      ]
+    },
+    {
+      "field": "mrz_line2",
+      "text": "AA97301684THA010710F3002138834779282404000<<",
+      "box": [
+        22,
+        279,
+        405,
+        292
+      ]
+    }
+  ]
+}
